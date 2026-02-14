@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SUNDAY feat. SO-TA（feat. SO-TA）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T15:20:30.665059Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUNDAY feat. SO-TA",
+      "artist": "ShaNa",
+      "has_synced": false,
+      "path": "select/pl_01_SUNDAY_feat._SO-TA_ShaNa.txt"
+    }
+  ]
+}
